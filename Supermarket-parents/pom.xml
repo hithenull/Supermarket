@@ -8,5 +8,6 @@
   <modules>
     <module>supermarket-base</module>
     <module>supermarket-web</module>
+    <module>supermarket-old</module>
   </modules>
 </project>
